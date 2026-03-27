@@ -1,3 +1,6 @@
 *.mat
+!data/OCV_temperature.mat
 .ipynb_checkpoints
 __pycache__/
+*.pt
+scratch/
